@@ -1,2 +1,2 @@
-# linear_regression
-This repository contains a collection of code examples related to linear regression, a fundamental machine learning algorithm.
+#Linear_Regression
+This repository contains a collection of code examples related to linear regression, a fundamental machine learning algorithm. As I study linear regression, I'll be uploading my code implementations for various datasets. This repository serves as a collection of my work, allowing me to revisit and review my progress as I learn. If you're also studying linear regression, you may find these examples helpful as you explore the algorithm and its applications. So why wait? Start exploring and learning today!
